@@ -1,0 +1,19 @@
+body{
+    background-color: #FFEEDF
+}
+
+button{
+    background-color: #1c5a4e;
+    height: 240px;
+    width: 240px;
+    border-radius: 100%;
+    display: block;
+    position: fixed;
+
+    font-size: 200px;
+    color: #FFEEDF;
+    font-family: 'Montserrat', sans-serif;
+
+    left: 41%;
+    top: 32%;
+}
